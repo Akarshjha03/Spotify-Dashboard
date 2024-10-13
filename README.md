@@ -65,3 +65,11 @@ spotify-powerbi-dashboard/
 ├── Spotify-PowerBI-Dashboard.pbix  # Power BI Dashboard file
 ├── README.md                       # Project documentation
 └── assets/                         # Any images or assets used in the README
+```
+
+## 🌟 Contributions
+Contributions are welcome! If you find any issues or want to enhance the dashboard, feel free to open an issue or submit a pull request.
+
+## 🙌 Acknowledgements
+Thanks to Spotify for providing the API for accessing music data.
+Inspiration from various Power BI dashboard projects.
